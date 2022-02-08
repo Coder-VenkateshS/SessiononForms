@@ -1,0 +1,25 @@
+#minion{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+body{
+background-image: url('https://cdn3.vectorstock.com/i/1000x1000/25/47/outdoor-backyard-background-cartoon-vector-15142547.jpg');
+background-size: cover;
+}
+
+table{
+    width: 500px;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: grey;
+}
+th, td{
+    padding: 10px;
+}
